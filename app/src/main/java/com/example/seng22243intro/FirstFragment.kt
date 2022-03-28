@@ -56,7 +56,9 @@ class FirstFragment : Fragment() {
                         Log.i("FirstFragment", it.name)
                         binding.textviewFirst.text = it.name
 
-                        binding.textviewThird.text = it.email
+                        binding.textviewfourth.text = it.email
+
+                        binding.textviewThird.text = it.username
 
 
 

@@ -9,10 +9,11 @@
     <string name="previous">Previous</string>
     <string name="first_fragment">First Fragment</string>
 
-    <string name="hello_first_fragment">User name</string>
+    <string name="hello_first_fragment">Name</string>
     <string name="hello_second_activity">Hello second activity</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
-    <string name="hello_third_fragment">User E-mail</string>
+    <string name="hello_third_fragment">User name</string>
+    <string name="hello_fourth_fragment">User e-mail</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
